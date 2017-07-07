@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://longberryco.github.io/sitemap.xml

@@ -1,0 +1,33 @@
+baseurl = "http://longberryco.github.io"
+title = "Longberry"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableRSS = true
+
+[params]
+  title = "Longberry"
+  description = '<!--[--><!--]-->'
+  logo = "fa-diamond"
+  copyright = "Longberry"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
